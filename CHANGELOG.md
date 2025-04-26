@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.0.3](https://github.com/jkingston/caddy-with-plugins/compare/v0.0.1...v0.0.3) (2025-04-26)
+
+
+### Miscellaneous Chores
+
+* release 0.0.2 ([aaefbdb](https://github.com/jkingston/caddy-with-plugins/commit/aaefbdb1ac08e75a5488b0cc9f403b5750e38fdb))
+* release 0.0.3 ([249face](https://github.com/jkingston/caddy-with-plugins/commit/249face3e13cfc45c9b10082d6fcccdbd34a59d1))
+
 ## 0.0.1 (2025-04-26)
 
 
