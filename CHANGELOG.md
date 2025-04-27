@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/jkingston/caddy-with-plugins/compare/v0.1.0...v0.2.0) (2025-04-27)
+
+
+### Features
+
+* Add arm64 image ([aa45651](https://github.com/jkingston/caddy-with-plugins/commit/aa456518fc1456dc4ebdf4bc3f67ee2825f6a4fa))
+
 ## [0.1.0](https://github.com/jkingston/caddy-with-plugins/compare/v0.0.5...v0.1.0) (2025-04-27)
 
 
