@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/jkingston/caddy-with-plugins/compare/v0.2.0...v0.2.1) (2025-04-27)
+
+
+### Bug Fixes
+
+* try to fix docker build ([647b5d6](https://github.com/jkingston/caddy-with-plugins/commit/647b5d6a13c388fd2a697cbac495102b0b4d0b5c))
+
 ## [0.2.0](https://github.com/jkingston/caddy-with-plugins/compare/v0.1.0...v0.2.0) (2025-04-27)
 
 
